@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(206, 207, 141);
+    text-align: center;
+    margin-inline: auto;
+}
+
+.impar{
+    font-size: 16pt;
+    color: red;
+}
+
+.par{
+    font-size: 20pt;
+    color: blue;
+}
+
+p span{
+    color: black;
+}
+
+#logoHarry{
+    width: 30%;
+}
